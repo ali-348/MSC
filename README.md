@@ -1,2 +1,1 @@
-# MSC
-MSc PROJECT
+# MSc Data Science final project 
